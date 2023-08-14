@@ -5,7 +5,7 @@ import axios from "axios";
 
 
 Vue.config.productionTip = false
-axios.defaults.baseURL = "https://xxx.execute-api.aws_region.amazonaws.com/dev";
+axios.defaults.baseURL = "https://gva29lkki3.execute-api.us-east-1.amazonaws.com/dev";
 
 new Vue({
   router,
